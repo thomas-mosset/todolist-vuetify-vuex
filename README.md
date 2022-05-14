@@ -1,5 +1,7 @@
 # Todo List
 
+![demo of the app](src/assets/gif.gif)
+
 ## Project infos
 This is a simple todo list made with : 
 
@@ -15,6 +17,7 @@ This is a simple todo list made with :
 - When the todo's status is set to "done", it go from the "todo list" to the "done todo list".
 - There, your can change the status of a chosen todo to "to do". (It will transfert the todo back to the original todo list);
 - Remove a chosen todo from your done todo list;
+- In its header, the app gives you dynamically the number of remaining todos that you have;
 
 ## Validation
 
